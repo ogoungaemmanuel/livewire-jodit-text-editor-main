@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3 - 2024-09-09
+
+**Full Changelog**: https://github.com/ogoungaemmanuel/livewire-jodit-text-editor-main/commits/1.0.3
+
 ## V1.3 - 2024-07-18
 
 Added the option to add buttons dynamically using a "buttons" attribute.
