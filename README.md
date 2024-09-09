@@ -77,4 +77,4 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## ❤️ Support Me
 
-Is this plugin helpful to you? Let me know by connecting <a href='https://linkedin.com/in/pieternaber' target='_blank'>on LinkedIn</a> or <a href='https://x.com/pieternaber' target='_blank'>on X</a>.
+Is this plugin helpful to you? Let me know by connecting <a href='https://linkedin.com/in/xslainconcept' target='_blank'>on LinkedIn</a> or <a href='https://x.com/xslainconcept' target='_blank'>on X</a>.
