@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Mantix\LivewireJoditTextEditor;
+namespace Xslain\LivewireJoditTextEditor;
 
-use Mantix\LivewireJoditTextEditor\Http\Livewire\JoditTextEditor;
+use Xslain\LivewireJoditTextEditor\Http\Livewire\JoditTextEditor;
 use Livewire\Livewire;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;

@@ -1,5 +1,5 @@
 <?php
 
 arch('package')
-    ->expect('Mantix\LivewireJoditTextEditor')
+    ->expect('Xslain\LivewireJoditTextEditor')
     ->toUseStrictTypes();

@@ -1,10 +1,10 @@
 <h1 align="center">Livewire Jodit Text Editor (WYSIWYG)</h1>
 
 <p align="center">
-    <a href="https://github.com/mantix/livewire-jodit-text-editor/actions"><img src="https://github.com/mantix/livewire-jodit-text-editor/actions/workflows/tests.yml/badge.svg" alt="Build Status"></a>
-    <a href="https://packagist.org/packages/mantix/livewire-jodit-text-editor"><img src="https://img.shields.io/packagist/dt/mantix/livewire-jodit-text-editor" alt="Total Downloads"></a>
-    <a href="https://packagist.org/packages/mantix/livewire-jodit-text-editor"><img src="https://img.shields.io/packagist/v/mantix/livewire-jodit-text-editor" alt="Latest Stable Version"></a>
-    <a href="https://packagist.org/packages/mantix/livewire-jodit-text-editor"><img src="https://img.shields.io/packagist/l/mantix/livewire-jodit-text-editor" alt="License"></a>
+    <a href="https://github.com/xslain/livewire-jodit-text-editor/actions"><img src="https://github.com/xslain/livewire-jodit-text-editor/actions/workflows/tests.yml/badge.svg" alt="Build Status"></a>
+    <a href="https://packagist.org/packages/xslain/livewire-jodit-text-editor"><img src="https://img.shields.io/packagist/dt/xslain/livewire-jodit-text-editor" alt="Total Downloads"></a>
+    <a href="https://packagist.org/packages/xslain/livewire-jodit-text-editor"><img src="https://img.shields.io/packagist/v/xslain/livewire-jodit-text-editor" alt="Latest Stable Version"></a>
+    <a href="https://packagist.org/packages/xslain/livewire-jodit-text-editor"><img src="https://img.shields.io/packagist/l/xslain/livewire-jodit-text-editor" alt="License"></a>
 </p>
 
 ## ✨ Introduction
@@ -15,7 +15,7 @@ A powerful Livewire rich text editor (WYSIWYG) component that build top of Jodit
 ## 📦 Installation
 Seconds install this package via Composer:
 ```bash
-composer require mantix/livewire-jodit-text-editor
+composer require xslain/livewire-jodit-text-editor
 ```
 
 Include the Jodit Editor theme and the library in your layout or specific view.

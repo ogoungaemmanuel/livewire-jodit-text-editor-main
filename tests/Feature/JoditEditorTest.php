@@ -1,6 +1,6 @@
 <?php
 
-use Mantix\LivewireJoditTextEditor\Http\Livewire\JoditTextEditor;
+use Xslain\LivewireJoditTextEditor\Http\Livewire\JoditTextEditor;
 
 it('renders successfully', function () {
     Livewire\Livewire::test(JoditTextEditor::class)

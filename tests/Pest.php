@@ -11,4 +11,4 @@
 |
 */
 
-uses(Mantix\LivewireJoditTextEditor\Tests\TestCase::class)->in('Feature');
+uses(Xslain\LivewireJoditTextEditor\Tests\TestCase::class)->in('Feature');

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Mantix\LivewireJoditTextEditor\Http\Livewire;
+namespace Xslain\LivewireJoditTextEditor\Http\Livewire;
 
 use Illuminate\Contracts\View\View;
 use Illuminate\Support\Str;

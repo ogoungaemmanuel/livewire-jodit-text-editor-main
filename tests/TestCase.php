@@ -1,8 +1,8 @@
 <?php
 
-namespace Mantix\LivewireJoditTextEditor\Tests;
+namespace Xslain\LivewireJoditTextEditor\Tests;
 
-use Mantix\LivewireJoditTextEditor\LivewireJoditTextEditorServiceProvider;
+use Xslain\LivewireJoditTextEditor\LivewireJoditTextEditorServiceProvider;
 use Livewire\LivewireServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 

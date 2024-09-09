@@ -1,5 +1,5 @@
 {
-  "name": "mantix/livewire-jodit-text-editor",
+  "name": "xslain/livewire-jodit-text-editor",
   "description": "A powerful Livewire rich text editor (WYSIWYG) component built top of Jodit Editor.",
   "keywords": [
     "livewire",
@@ -10,7 +10,7 @@
   "authors": [
     {
       "name": "Pieter Naber",
-      "email": "Pieter@Mantix.nl",
+      "email": "Pieter@Xslain.nl",
       "role": "Developer"
     }
   ],
@@ -27,12 +27,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Mantix\\LivewireJoditTextEditor\\": "src"
+      "Xslain\\LivewireJoditTextEditor\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Mantix\\LivewireJoditTextEditor\\Tests\\": "tests"
+      "Xslain\\LivewireJoditTextEditor\\Tests\\": "tests"
     }
   },
   "scripts": {
@@ -49,7 +49,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Mantix\\LivewireJoditTextEditor\\LivewireJoditTextEditorServiceProvider"
+        "Xslain\\LivewireJoditTextEditor\\LivewireJoditTextEditorServiceProvider"
       ]
     }
   }
